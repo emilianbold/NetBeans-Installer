@@ -1,7 +1,7 @@
-NetBeans for Windows
+Windows installers for Apache NetBeans
 ==
 
-NetBeans for Windows installer with AdoptOpenJDK out of the box.
+Windows installers for Apache NetBeans with AdoptOpenJDK included out of the box.
 
 Nothing else has been changed.
 
