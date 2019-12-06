@@ -1,7 +1,7 @@
-Windows installers for Apache NetBeans
+Emi's Windows installers for Apache NetBeans
 ==
 
-Windows installers for Apache NetBeans with AdoptOpenJDK included out of the box.
+Emi's Windows installers for Apache NetBeans with AdoptOpenJDK included out of the box.
 
 Nothing else has been changed.
 
